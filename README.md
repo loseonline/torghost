@@ -13,7 +13,7 @@ TorGhost bir anonimleştirme betiğidir. TorGhost, tüm internet trafiğini SOCK
 ## Nasıl kurulur ?
 **Yeni kali güncellemesi izin hatasına neden oluyor, lütfen kaynaktan derleyip kurun**
 
-` TorGhost, debian paket yöneticisi kullanılarak [en son sürüm](https://github.com/usermusti/torghost/releases) indirilerek kurulabilir `
+**TorGhost, debian paket yöneticisi kullanılarak [en son sürüm]**(`https://github.com/usermusti/torghost/releases`) **indirilerek kurulabilir**
 ` İndir `
 
 ` wget -c https://github.com/usermusti/torghost/releases/download/v3.0.2/torghost-3.0.2-amd64.deb`
